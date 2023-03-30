@@ -1,8 +1,8 @@
 pluginManagement {
     repositories {
         gradlePluginPortal()
-        mavenCentral()
         google()
+        mavenCentral()
     }
 }
 dependencyResolutionManagement {
@@ -10,7 +10,7 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        maven { url 'https://jitpack.id'}
+        maven { url 'https://jitpack.io' }
     }
 }
 rootProject.name = "DiaryApp"
