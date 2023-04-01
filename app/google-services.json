@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281284850266",
+    "project_id": "diaryapp-814bd",
+    "storage_bucket": "diaryapp-814bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281284850266:android:c1e91ab7a663b8342f5e63",
+        "android_client_info": {
+          "package_name": "com.conceptzoa.diaryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281284850266-tvj93sk1rcgj5dn14nkotk2te7rkl74t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASXEYmMEHUSIG2c9ILWM5nk12RL52Of6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281284850266-tvj93sk1rcgj5dn14nkotk2te7rkl74t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
