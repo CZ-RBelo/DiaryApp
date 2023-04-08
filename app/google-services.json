@@ -14,7 +14,15 @@
       },
       "oauth_client": [
         {
-          "client_id": "281284850266-tvj93sk1rcgj5dn14nkotk2te7rkl74t.apps.googleusercontent.com",
+          "client_id": "281284850266-lntsuutet2g4a7sb9j7n4kak49v1n9kd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.conceptzoa.diaryapp",
+            "certificate_hash": "8518b63ff06cd1edfa1f010b2d84bf763d2a45cd"
+          }
+        },
+        {
+          "client_id": "281284850266-7sd0jh5d8rde97g0qjjucsg7i7plupbc.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
@@ -27,7 +35,7 @@
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "281284850266-tvj93sk1rcgj5dn14nkotk2te7rkl74t.apps.googleusercontent.com",
+              "client_id": "281284850266-7sd0jh5d8rde97g0qjjucsg7i7plupbc.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
